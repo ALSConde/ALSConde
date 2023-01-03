@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsconde&label=Profile%20views&color=0e75b6&style=flat" alt="alsconde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsconde" alt="alsconde" /></a> </p>
-
 - 🌱 I’m currently learning **C/C++ and Python**
 
 - 📫 How to reach me **andre.conde100@gmail.com**
